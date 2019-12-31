@@ -1,0 +1,33 @@
+{
+  "name": "digitlimit/laravel-inbox",
+  "description": "Laravel messages and inbox system",
+  "type": "library",
+  "keywords": [
+    "laravel",
+    "inbox",
+    "messages",
+    "users",
+    "messenger"
+  ],
+  "authors": [
+    {
+      "name": "Emeka Mbah",
+      "email": "frankemeks77@yahoo.com"
+    }
+  ],
+  "require": {
+    "nesbot/carbon": "^1.26.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Digitlimit\\Inbox\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Digitlimit\\Inbox\\InboxServiceProvider"
+      ]
+    }
+  }
+}
