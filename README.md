@@ -1,6 +1,6 @@
 # laravel-inbox
 This Laravel package will help you to create an inbox system and send messages between users easily.
-This package was forked from https://github.com/LiliomLab/laravel-inbox.
+This package was forked from https://github.com/DigitlimitLab/laravel-inbox.
 
 ## Changes
 - Fix Inbox listing issue, Inbox now only list received massages

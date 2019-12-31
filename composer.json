@@ -15,9 +15,7 @@
       "email": "frankemeks77@yahoo.com"
     }
   ],
-  "require": {
-    "nesbot/carbon": "^1.26.3"
-  },
+  "require": {},
   "autoload": {
     "psr-4": {
       "Digitlimit\\Inbox\\": "src/"
