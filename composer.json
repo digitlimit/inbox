@@ -15,7 +15,9 @@
       "email": "frankemeks77@yahoo.com"
     }
   ],
-  "require": {},
+  "require": {
+    "digitlimit/alert": "^2.0"
+  },
   "autoload": {
     "psr-4": {
       "Digitlimit\\Inbox\\": "src/"
