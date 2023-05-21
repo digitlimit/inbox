@@ -1,5 +1,5 @@
 {
-  "name": "digitlimit/laravel-inbox",
+  "name": "digitlimit/inbox",
   "description": "Laravel messages and inbox system",
   "type": "library",
   "keywords": [
